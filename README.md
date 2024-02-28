@@ -10,7 +10,7 @@ An introduction of the project could be found [here (from the authors)](https://
 
 ## Demo
 
-![demo](./docs/demo.gif)
+<img src="https://github.com/DevNoctis1001/Real-Time-Table-Tennis-Analysis/blob/main/docs/demo.gif"></img>
 
 ## 1. Features
 - [x] Ball detection global stage
