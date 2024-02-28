@@ -10,7 +10,7 @@ An introduction of the project could be found [here (from the authors)](https://
 
 ## Demo
 
-![image](https://github.com/DevNoctis1001/Real-Time-Table-Tennis-Analysis/assets/148486194/fd88f371-68ab-4802-9477-cb175f647dd2)
+![image](https://github.com/DevNoctis1001/Real-Time-Table-Tennis-Analysis/blob/main/docs/demo.gif)
 
 
 ## 1. Features
